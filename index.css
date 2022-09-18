@@ -1,0 +1,8 @@
+body{
+    color: tomato;
+    position: relative;
+    left: 45%;
+    top: 200px;
+    font-size: 30px;
+    overflow: hidden;
+}
